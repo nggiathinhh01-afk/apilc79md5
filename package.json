@@ -1,0 +1,16 @@
+{
+  "name": "ai-sicbo-lc79",
+  "version": "1.0.0",
+  "description": "API AI dự đoán Tài Xỉu/ với thuật toán Analysis và Trọng số động (Learning System).",
+  "main": "apilc79md5.js",
+  "type": "module",
+  "scripts": {
+    "start": "node apilc79md5.js",
+    "dev": "node --watch apilc79md5.js"
+  },
+  "dependencies": {
+    "fastify": "^4.0.0",
+    "@fastify/cors": "^8.0.0",
+    "node-fetch": "^3.0.0"
+  }
+}
